@@ -1,2 +1,2 @@
-npm install
+<p>npm install</p>
 npm run dev
