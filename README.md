@@ -1,1 +1,2 @@
-# shopping-list
+npm install
+npm run dev
